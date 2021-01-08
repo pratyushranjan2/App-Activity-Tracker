@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Usage</string>
+
+    <string name="file_name">com.example.appusage.packages</string>
+    <string name="first_time">firstTime</string>
+
+    <string name="instagram">com.instagram.android</string>
+    <string name="youtube">com.google.android.youtube</string>
+    <string name="callofdutymobile">com.activision.callofduty.shooter</string>
+    <string name="whatsapp">com.whatsapp</string>
+    <string name="chrome">com.android.chrome</string>
+    <string name="campuscare">com.campuscare.entab.ui</string>
+    <string name="INSTAGRAM">Instagram</string>
+    <string name="YOUTUBE">YouTube</string>
+    <string name="CALL_OF_DUTY_MOBILE">Call of Duty Mobile</string>
+    <string name="WHATSAPP">Whatsapp</string>
+    <string name="CHROME">Chrome</string>
+    <string name="CAMPUS_CARE">Campus Care</string>
+</resources>
